@@ -1,0 +1,8 @@
+.replit
+replit.nix
+
+yarn.lock
+node_modules
+
+.next
+.config
